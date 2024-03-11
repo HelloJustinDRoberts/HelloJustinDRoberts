@@ -22,7 +22,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Best Win Percentage Calculator (Rock Paper Scissors)</b>
-  - [Practicing Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Python](https://github.com/HelloJustinDRoberts/Calculate-Win-Percentage-for-Rock-Paper-Scissors)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
