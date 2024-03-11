@@ -1,4 +1,4 @@
-<h1>Hello, I'm Justin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello, I'm Justin! <br/><a href="https://github.com/joshmadakor1">Cybersecurity/ Cloud Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Enthusiast</a></h1>
 
 <h2>🎓 Certifications:</h2>
 
